@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Linda</h1>
-- 🔭 I’m currently studying **Computer Science & TI Engineering**
+- 🔭 I’m currently studying Computer Science & TI Engineering
 
 - 📫 How to reach me **jim21169@uvg.edu.gt**
 
