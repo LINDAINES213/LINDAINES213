@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Linda Jiménez</h1>
-- 🔭 I’m currently studying **Computer Science & TI Engineering**
+- 🔭 I’m currently studying Computer Science & TI Engineering
 
 - 🌱 I’m currently learning **C++ and Javascript**
 
